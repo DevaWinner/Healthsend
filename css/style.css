@@ -9,6 +9,17 @@ body {
 }
 
 .hero-container {
-  width: 100%;
-  margin-top: 16em;
+  margin-top: 10em;
+}
+
+.call-btn {
+  background-color: #f7931e;
+}
+
+.work {
+  margin-top: 8em;
+}
+
+.work-img {
+  padding: 5em 12em;
 }
