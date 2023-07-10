@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+}
+
+.hero-container {
+  margin-top: 10em;
+}
+
+.call-btn {
+  background-color: #f7931e;
+}
+
+.work {
+  margin-top: 8em;
+}
+
+.work-img {
+  padding: 5em 12em;
+}
+
+.card-1 {
+  background-color: #b7d9ff;
+}
+
+.card-2 {
+  background-color: #bdecc4;
+}
+
+.card-3 {
+  background-color: #ffd27f;
+}
+
+.adopter {
+  padding: 3em 8em;
+}
