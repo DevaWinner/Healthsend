@@ -66,16 +66,12 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
-1. Clone this repository
+1. Clone this repository to use this project on local machine.
+
    run
    ```sh 
       git clone git@github.com:DevaWinner/to-do-project.git
     ```
-
-2. Open the project in a text editor
-3. Open a terminal via CMD or in your code editor
-4. Run `npm install` - To install all dependencies of the project.
-5. Run `npm start` to serve and open the project on a development server.
 
 
 ### Prerequisites
