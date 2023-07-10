@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live View](https://devawinner.github.io/Healthsend/) 
+- [Live View](https://devawinner.github.io/Healthsend/index.html) 
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
