@@ -1,6 +1,5 @@
 
 ![Healthsend logo](./assets/healthsendlogo.png)
-# Healthsend
 
 <a name="readme-top"></a>
 
